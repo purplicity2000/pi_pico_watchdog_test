@@ -1,7 +1,7 @@
 A simple watchdog test for pi pico.
 Using the standard arduino IDE
 
-Set board using Earle F. Philhower, III's excellent board library:
+Set board using Earle F. Philhower, III's excellent RP2040 board library:
 	https://github.com/earlephilhower/arduino-pico
 
 The loop delay gradually increases until it is longer than the watchdog timeout
